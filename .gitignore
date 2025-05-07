@@ -1,31 +1,39 @@
-# Binaries, Builds, and Intermediate files
+# UE temporary & generated folders
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# Ignore generated project files (optional, но часто используется)
+# Project-specific generated files
+.vscode/
 *.VC.db
 *.VC.opendb
 *.suo
 *.sdf
 *.opensdf
 *.log
+*.tlog
+*.ipch
+*.obj
+*.pch
+*.pdb
+*.idb
+*.dll
+*.exe
 
-# Ignore Mac-specific files
+# Backup/autosave files
+*.autosave
+*.backup
+*.tmp
+*.temp
+
+# OS and Editor junk
 .DS_Store
-
-# Ignore Windows-specific files
 Thumbs.db
-Desktop.ini
+*.swp
 
 # Ignore Visual Studio user-specific files
 *.user
 *.userosscache
 *.sln.docstates
-
-# Ignore backup/autosave
-*.autosave
-*.backup
-*.tmp
