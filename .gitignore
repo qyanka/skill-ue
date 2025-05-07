@@ -1,0 +1,31 @@
+# Binaries, Builds, and Intermediate files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore generated project files (optional, но часто используется)
+*.VC.db
+*.VC.opendb
+*.suo
+*.sdf
+*.opensdf
+*.log
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore Visual Studio user-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore backup/autosave
+*.autosave
+*.backup
+*.tmp
