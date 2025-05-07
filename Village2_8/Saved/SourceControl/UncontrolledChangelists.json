@@ -8,12 +8,12 @@
 				"G:/dev/ue/skillbox/Village2_8/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"G:/dev/ue/skillbox/Village2_8/Content/Village/Levels/L_Village.umap",
 				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Maps/Main.umap",
-				"G:/dev/ue/skillbox/Village2_8/Content/Village/Blueprints/BP_PlayerCharacter.uasset",
-				"G:/dev/ue/skillbox/Village2_8/Content/Village/Blueprints/GM_FirstPerson.uasset",
 				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Materials/MI_Flora_02_TwoSided.uasset",
 				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Materials/MI_Grass_a.uasset",
 				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Meshes/SMF_Forest_Tree01.uasset",
-				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Meshes/SMF_Forest_Tree06.uasset"
+				"G:/dev/ue/skillbox/Village2_8/Content/StylizedProvencal/Meshes/SMF_Forest_Tree06.uasset",
+				"G:/dev/ue/skillbox/Village2_8/Content/Village/Blueprints/BP_PlayerCharacter.uasset",
+				"G:/dev/ue/skillbox/Village2_8/Content/Village/Blueprints/GM_FirstPerson.uasset"
 			]
 		}
 	]
