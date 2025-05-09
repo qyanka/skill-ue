@@ -1,39 +1,80 @@
-# UE temporary & generated folders
+# ===================
+# Unreal Engine files
+# ===================
+
+# Binaries and build outputs
 Binaries/
 Build/
 DerivedDataCache/
 Intermediate/
 Saved/
-
-# Project-specific generated files
 .vscode/
+.vs/
+
+# Ignore auto-generated project files
+*.opensdf
+*.sdf
+*.suo
 *.VC.db
 *.VC.opendb
-*.suo
-*.sdf
-*.opensdf
 *.log
 *.tlog
-*.ipch
 *.obj
-*.pch
 *.pdb
+*.ipdb
+*.iobj
 *.idb
-*.dll
-*.exe
+*.ilk
 
-# Backup/autosave files
-*.autosave
-*.backup
+# Ignore Live Coding stuff
+.livecoding/
+
+# Ignore crash reports, debug logs, config backups
+*.dmp
 *.tmp
-*.temp
+*.bak
 
-# OS and Editor junk
-.DS_Store
-Thumbs.db
-*.swp
-
-# Ignore Visual Studio user-specific files
+# Ignore user-specific Unreal config
+*.local
 *.user
-*.userosscache
-*.sln.docstates
+*.userprefs
+
+# ===================
+# Visual Studio files
+# ===================
+
+# VS project files
+*.sln
+*.vcxproj*
+*.csproj
+*.psess
+*.vsp
+*.ncb
+*.dbmdl
+*.cache
+*.suo
+*.sdf
+
+# VS Code Workspace
+*.code-workspace
+
+# VS database and browse info
+*.VC.db
+*.VC.opendb
+*.Browse.VC.db
+
+# ===================
+# OS/System files
+# ===================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Linux
+*.swp
+*~
