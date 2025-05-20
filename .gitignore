@@ -78,3 +78,7 @@ ehthumbs.db
 # Linux
 *.swp
 *~
+
+#Asset Naming Keeper
+/Content/AssetNamingKeeper/
+
